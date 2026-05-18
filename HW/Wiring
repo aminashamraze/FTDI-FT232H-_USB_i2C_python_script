@@ -1,1 +1,7 @@
 
+FTDI D0  → SCL
+FTDI D1  → SDA
+FTDI GND → GND (chip)
+
+SCL → 4.7k → 3.3V
+SDA → 4.7k → 3.3V
