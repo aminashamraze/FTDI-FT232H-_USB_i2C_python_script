@@ -1,3 +1,3 @@
-This project was a simple enabling tool for FT232H and was used for benchtop testing.
+This is a host-side embedded bring-up utility for register-level I2C communication using an FT232H adapter. 
 For furthering it, consult.
 https://ftdichip.com/software-examples/mpsse-projects/libmpsse-i2c-examples/
